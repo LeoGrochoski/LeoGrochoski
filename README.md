@@ -49,6 +49,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-origin
 </div>
 
 
-Snake Animation
-![Snake animation](https://github.com/seu-usuário-aqui/LeoGrochoski/blob/output/github-contribution-grid-snake.svg)
-
