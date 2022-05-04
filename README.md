@@ -1,6 +1,6 @@
 ## Olá, eu sou *Leonardo* !
 
-Sou consultor de tecnolgia, trabalho atualmente em QA em projetos de desenvolvimento de software e estou iniciante no mundo da Ciência de Dados, seja bem vindo ao meu perfil GitHub
+Sou consultor de tecnolgia, trabalho atualmente em QA em projetos de desenvolvimento de software e estou inicianndo no mundo da Ciência de Dados, seja bem vindo ao meu perfil no GitHub
 
 ### Sobre mim e Tecnologias
 
