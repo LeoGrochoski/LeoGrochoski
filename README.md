@@ -1,6 +1,6 @@
 ## Olá, eu sou *Leonardo* !
 
-Sou consultor de tecnolgia, trabalho atualmente com analise de dados em projetos de Advanced Analytics e buscando me desenvolver cada dia mais no mundo da Ciência de Dados, seja bem vindo ao meu perfil no GitHub
+Sou consultor de tecnolgia, trabalho atualmente com análise de dados em projetos de Advanced Analytics e buscando me desenvolver cada dia mais no mundo da Ciência de Dados, seja bem vindo ao meu perfil no GitHub
 
 ### Sobre mim e Tecnologias
 
@@ -17,12 +17,11 @@ Sou consultor de tecnolgia, trabalho atualmente com analise de dados em projetos
           
 
 📚: Estou estudando: <img                         
-
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="32"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" height="32"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="32"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="32"/>
+
           
 ---
 
