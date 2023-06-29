@@ -16,7 +16,7 @@ Sou consultor de tecnolgia, trabalho atualmente com análise de dados em projeto
 
           
 
-📚: Estou estudando: <img                         
+📚: Estou estudando:                        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="32"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" height="32"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="32"/>
