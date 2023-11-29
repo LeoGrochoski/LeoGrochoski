@@ -1,10 +1,9 @@
 ## Olá, eu sou *Leonardo* !
 
-Sou consultor de tecnolgia, trabalho atualmente com análise de dados em projetos de Advanced Analytics e buscando me desenvolver cada dia mais no mundo da Ciência de Dados, seja bem vindo ao meu perfil no GitHub
+Sou um entusiasta dos dados, e apesar de atuar na area com programação e tecnologia a apenas 3 anos, atuei como consultor em projetos de diversos Setores como Energia, Logistica, Agronegocio e Mineração.
+Atuei principalmente como QA em projetos de desenvolvimento de Softare e Cientistade de Dados em projetos de Machine Learning e NLP. Atualmente trabalho como Engenheiro de Dados e foco nos meus estudos a aréa de dados em geral. Seja bem vindo ao meu perfil no GitHub
 
 ### Sobre mim e Tecnologias
-
-💻: Atualmente estou trabalhando como consultor de DDA (Digital Data Analytcs) na [EY](https://www.ey.com/pt_br)
 
 🧰: Atualmente tenho utilizado:   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
