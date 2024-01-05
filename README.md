@@ -1,7 +1,9 @@
 ## Olá, eu sou *Leonardo* !
 
-Sou um entusiasta dos dados, e apesar de atuar na area com programação e tecnologia a apenas 3 anos, atuei como consultor em projetos de diversos Setores como Energia, Logistica, Agronegocio e Mineração.
-Atuei principalmente como QA em projetos de desenvolvimento de Softare e Cientistade de Dados em projetos de Machine Learning e NLP. Atualmente trabalho como Engenheiro de Dados e foco nos meus estudos a aréa de dados em geral. Seja bem vindo ao meu perfil no GitHub
+Sou um entusiasta dos dados, Atualmente trabalho como Engenheiro de Dados do Oba Hortifruti, atuar na areá de tecnologia de uma empresa de varejo será divertido.
+Atuei por 3 anos como consultor de ciência de dados, participei de projetos de diversos Setores como Energia, Logistica, Agronegocio e Mineração.
+Trabalhei principalmente com Limpeza, Pre-proecssamento, Exploração e analise de dados, além da criação e teste de algoritmos de NLP para analise de documentos.
+Tenho focado cada dia mais nos meus estudos da aréa de dados em geral, e quero me desafiar em explorar o maximo de projetos e tenologias possives. Seja bem vindo ao meu perfil no GitHub
 
 ### Sobre mim e Tecnologias
 
@@ -18,7 +20,6 @@ Atuei principalmente como QA em projetos de desenvolvimento de Softare e Cientis
 📚: Estou estudando:                        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="32"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="32"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="32"/>
 
           
