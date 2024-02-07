@@ -23,7 +23,7 @@ Tenho focado cada dia mais nos meus estudos da aréa de dados em geral, e quero 
 
 
 
-📚: Estou estudando:
+🧰: Atualmente tenho utilizado:   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" height="48"/>
