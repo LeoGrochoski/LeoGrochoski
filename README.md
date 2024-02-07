@@ -8,7 +8,6 @@ Tenho focado cada dia mais nos meus estudos da aréa de dados em geral, e quero 
 ### Sobre mim e Tecnologias
 
 🧰: Atualmente tenho utilizado:   
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="48"/>
