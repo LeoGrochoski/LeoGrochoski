@@ -42,9 +42,6 @@ Tenho focado cada dia mais nos meus estudos da aréa de dados em geral, e quero 
 -->
 
 
-![Snake animation](https://github.com/LeoGrochoski/LeoGrochoski/blob/output/github-contribution-grid-snake.svg)
-
-
 ### Estatísticas do Github
 
 <center>
