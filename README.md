@@ -1,8 +1,11 @@
 ## Olá, eu sou *Leonardo* !
 
-Sou um entusiasta dos dados, Atualmente trabalho como Engenheiro de Dados do Oba Hortifruti, atuar na areá de tecnologia de uma empresa de varejo será divertido.
+Sou um entusiasta dos dados, Atualmente trabalho como Engenheiro de Dados do Oba Hortifruti, atuar na areá de tecnologia de um comercio de varejo está sendo muito divertido.
+Atualmente estamos em projeto para migração do banco de dados on-premise para nuvem, o projeto é desafiador mas a recompensa e a experiencia adiquirida está sendo excelente.
+
 Atuei por 3 anos como consultor de ciência de dados, participei de projetos de diversos Setores como Energia, Logistica, Agronegocio e Mineração.
-Trabalhei principalmente com Limpeza, Pre-proecssamento, Exploração e analise de dados, além da criação e teste de algoritmos de NLP para analise de documentos.
+Trabalhei principalmente com Limpeza, Pre-proecssamento, Exploração e analise de dados, além da criação e testes de algoritmos de NLP para analise de documentos e analise de sentimento.
+
 Tenho focado cada dia mais nos meus estudos da aréa de dados em geral, e quero me desafiar em explorar o maximo de projetos e tenologias possives. Seja bem vindo ao meu perfil no GitHub
 
 ### Sobre mim e Tecnologias
@@ -20,8 +23,6 @@ Tenho focado cada dia mais nos meus estudos da aréa de dados em geral, e quero 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="48"/>
-
-
 
 
 
