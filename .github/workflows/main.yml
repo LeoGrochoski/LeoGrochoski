@@ -1,0 +1,42 @@
+name: Generate Datas
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+
+      - name: Install dependencies
+        run: |
+          gem install bundler
+          bundle install
+
+      - name: Generate Snake
+        run: |
+          echo '---' > snake.md
+          echo 'title: "🐍 Snake" ' >> snake.md
+          echo '---' >> snake.md
+          echo '{% include {{site.baseurl}}/github-contribution-grid-snake.svg %}' >> snake.md
+
+      - name: Build and deploy
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          bundle exec jekyll build -d dist
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Deploy to GitHub Pages"
+          git push origin main:output
