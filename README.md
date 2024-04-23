@@ -41,6 +41,10 @@ Tenho focado cada dia mais nos meus estudos da aréa de dados em geral, e quero 
 **LeoGrochoski/LeoGrochoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+
+![Snake animation](https://github.com/LeoGrochoski/LeoGrochoski/blob/output/github-contribution-grid-snake.svg)
+
+
 ### Estatísticas do Github
 
 <center>
